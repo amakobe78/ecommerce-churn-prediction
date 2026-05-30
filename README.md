@@ -164,7 +164,7 @@ print("Churned" if prediction[0] == 1 else "Active")
 BSc Mathematics — Kibabii University (2025)
 
 📧 stephenamakobe8@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/)
+🔗 [LinkedIn](www.linkedin.com/in/stephen-amakobe)
 💻 [GitHub](https://github.com/amakobe78)
 
 ---
